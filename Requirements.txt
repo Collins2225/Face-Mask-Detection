@@ -1,0 +1,7 @@
+# requirements.txt
+tensorflow==2.15.0     # Deep learning framework for building our CNN
+opencv-python==4.8.1.78  # Computer vision library for image processing
+numpy==1.24.3          # Numerical computing library
+matplotlib==3.7.1      # For visualizing images and results
+scikit-learn==1.3.0    # For splitting data and evaluation metrics
+pillow==10.0.0         # Image processing library
